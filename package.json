@@ -1,0 +1,21 @@
+{
+    "name": "vscode-color-theme",
+    "displayName": "vscode-color-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vscode-color-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscode-extension-color-theme.json"
+            }
+        ]
+    }
+}
