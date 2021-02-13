@@ -538,7 +538,7 @@
         "foreground": "#fcb5af"
       }
     },
-    // não sei ainda
+    // não sei ainda----------------------------------------------------------------------------------------------
     {
       "name": "Python function call",
       "scope": "meta.function-call.generic.python",
@@ -777,6 +777,7 @@
         "foreground": "#2EE2FA"
       }
     },
+    //continuar aqui (markdown)---------------------------------------------------------------------------------------------------------------------------------------------
     {
       "name": "Markdown links and image paths",
       "scope": [
